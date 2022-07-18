@@ -30,4 +30,4 @@ Front-end Developer 목표로 열심히 공부중인 대학생입니다! <br>
 <br>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dong-Seung-hyeon)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dong-Seung-hyeon)
